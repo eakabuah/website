@@ -4,4 +4,4 @@ This is a sample Website made as part of [*Learn Enough Git to Be Dangerous*](ht
 
 After finishing *Learn Enough Git to Be Dangerous*, you'll be able to use Git to track changes in your projects, back up data, share your work with others, and collaborate with programmers and other users of Git.
 
-You can access the [*Official Git Documentation here*](git-scm.com/doc).
+You can access the [*Official Git Documentation here*](https://git-scm.com/doc)
